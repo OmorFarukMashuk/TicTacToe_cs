@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2012\Projects\TTT\TTT\bin\Debug\TTT.exe.config
+\\mac\home\documents\visual studio 2012\Projects\TTT\TTT\bin\Debug\TTT.exe
+\\mac\home\documents\visual studio 2012\Projects\TTT\TTT\bin\Debug\TTT.pdb
+\\mac\home\documents\visual studio 2012\Projects\TTT\TTT\obj\Debug\TTT.exe
+\\mac\home\documents\visual studio 2012\Projects\TTT\TTT\obj\Debug\TTT.pdb
